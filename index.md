@@ -14,6 +14,6 @@ Select a competition below to read the complete PDF writeup directly in your bro
 * **RnD-Hasel** ── [Read PDF Writeup](writeups/WriteUp-RnD-Hasel.pdf)
 * **scriptCTF** ── [Read PDF Writeup](writeups/WriteUp_scriptCTF.pdf)
 * **ThomJefCTF** ── [Read PDF Writeup](writeups/WriteUp_ThomJefCTF_fixed.pdf)
-* **lixdyREGEN26** -- [Read PDF Writeup](writeups/Lixdy_REGEN26revised.pdf) 
+* **lixdyREGEN26** -- [Read PDF Writeup](writeups/Lixdy_ReGEN26rev.pdf) 
 * **LINKS** --[Notion Workspace](https://app.notion.com/p/HTB-Machine-Writeups-2b5daaceee248073b6cefd50fa5b2910)
 ---
