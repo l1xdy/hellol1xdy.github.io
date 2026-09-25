@@ -14,7 +14,9 @@ Select a competition below to read the complete PDF writeup directly in your bro
 * **RnD-Hasel** ── [Read PDF Writeup](writeups/WriteUp-RnD-Hasel.pdf)
 * **scriptCTF** ── [Read PDF Writeup](writeups/WriteUp_scriptCTF.pdf)
 * **ThomJefCTF** ── [Read PDF Writeup](writeups/WriteUp_ThomJefCTF_fixed.pdf)
-* **lixdyREGEN26** -- [Read PDF Writeup](writeups/Lixdy_ReGEN26rev.pdf)
-* **SATSIBER** -- [Read PDF Writeup](writeups/Writeup_Satsiber-Forensic-Hello_World.pdf) 
-* **LINKS** --[Notion Workspace](https://app.notion.com/p/HTB-Machine-Writeups-2b5daaceee248073b6cefd50fa5b2910)
+* **lixdyREGEN26** —— [Read PDF Writeup](writeups/Lixdy_ReGEN26rev.pdf)
+* **SATSIBER** —— [Read PDF Writeup](writeups/Writeup_Satsiber-Forensic-Hello_World.pdf) 
+* **LINK 1** —— [Notion Workspace](https://app.notion.com/p/HTB-Machine-Writeups-2b5daaceee248073b6cefd50fa5b2910)
+* **LINK 2** —— [Notion Workspace](https://app.notion.com/p/Portswigger-Lab-Solution-Rewrites-3e0daaceee2480f4b68cf5ae7458168f)
+
 ---
